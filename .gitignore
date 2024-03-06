@@ -1,2 +1,5 @@
 venv
 output
+cmake-build-debug
+.idea
+CMakeLists.txt
